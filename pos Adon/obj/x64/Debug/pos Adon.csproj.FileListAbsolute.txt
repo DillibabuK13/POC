@@ -1,0 +1,15 @@
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.csproj.ResolveComReference.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos_Adon.Properties.Resources.resources
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.csproj.GenerateResource.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.csproj.CoreCompileInputs.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\pos Adon.exe.config
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\pos Adon.exe
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\pos Adon.pdb
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\log4net.dll
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\log4net.pdb
+C:\Users\socius7\source\repos\pos Adon\pos Adon\bin\x64\Debug\log4net.xml
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.csproj.CopyComplete
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.exe
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\x64\Debug\pos Adon.pdb

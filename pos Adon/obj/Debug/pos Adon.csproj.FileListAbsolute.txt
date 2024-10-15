@@ -1,0 +1,7 @@
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\pos Adon.csproj.AssemblyReference.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\pos Adon.csproj.ResolveComReference.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\pos_Adon.Properties.Resources.resources
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\pos Adon.csproj.GenerateResource.cache
+C:\Users\socius7\source\repos\pos Adon\pos Adon\obj\Debug\pos Adon.csproj.CoreCompileInputs.cache
